@@ -1,4 +1,6 @@
 # Internship_Banking_ML_Project
+[![HitCount](http://hits.dwyl.com/spandey1296/Internship_Banking_ML_Project.svg)](http://hits.dwyl.com/spandey1296/Internship_Banking_ML_Project)
+
 ![machine learning internship](https://user-images.githubusercontent.com/50301680/92317966-d9fd5000-f023-11ea-8d8e-cbf81ef556ff.png)
 
 <h2>Project Title:</h2>
@@ -87,7 +89,6 @@ EDA: Study the data distribution in each attribute and target variable, share yo
 ![machine learning internhsip course](https://user-images.githubusercontent.com/50301680/92687992-25806880-f35a-11ea-93c3-2494d82be6f0.png)
 
 ![internship certificate internshipstdio](https://user-images.githubusercontent.com/50301680/92687996-26b19580-f35a-11ea-9e4e-7808e5486450.png)
-
 
 
 
